@@ -1,0 +1,3 @@
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\bin\Debug\RemaxWinApplication.exe.config
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.exe
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.pdb

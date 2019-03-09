@@ -1,0 +1,43 @@
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\bin\Debug\RemaxWinApplication.exe.config
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmPublic.resources
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.Properties.Resources.resources
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.csproj.GenerateResource.Cache
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\bin\Debug\RemaxWinApplication.exe
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\bin\Debug\RemaxWinApplication.pdb
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.exe
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.pdb
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.csprojResolveAssemblyReference.cache
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmLogin.resources
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmMain.resources
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmEmployees.resources
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmClients.resources
+C:\Users\Jbiscot\Desktop\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmProperties.resources
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\bin\Debug\RemaxWinApplication.exe.config
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\bin\Debug\RemaxWinApplication.exe
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\bin\Debug\RemaxWinApplication.pdb
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.csprojResolveAssemblyReference.cache
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmClients.resources
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmEmployees.resources
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmLogin.resources
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmMain.resources
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmProperties.resources
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmPublic.resources
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.Properties.Resources.resources
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.csproj.GenerateResource.cache
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.csproj.CoreCompileInputs.cache
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.exe
+E:\0 - Downloads\RemaxWinApplication\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.pdb
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\bin\Debug\RemaxWinApplication.exe.config
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.exe
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.pdb
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\bin\Debug\RemaxWinApplication.exe
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\bin\Debug\RemaxWinApplication.pdb
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.csprojResolveAssemblyReference.cache
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmClients.resources
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmEmployees.resources
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmLogin.resources
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmMain.resources
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmProperties.resources
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.frmPublic.resources
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.Properties.Resources.resources
+C:\Users\Jbiscot\Desktop\teamfinal\RemaxWinApplication\RemaxWinApplication\obj\Debug\RemaxWinApplication.csproj.GenerateResource.Cache
